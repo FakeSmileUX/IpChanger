@@ -1,0 +1,3 @@
+You can work file with this command...
+________________________
+sudo python IpChanger.py
